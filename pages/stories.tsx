@@ -53,28 +53,28 @@ const projects: Project[] = [
     title: "Modern Bath Suite",
     category: "Bathroom Renovation",
     description: "Contemporary bathroom design with premium fixtures",
-    image: "/images/IMG_4475.jpg"
+    image: "/images/IMG_4475.JPG"
   },
   {
     id: "7",
     title: "Spa-Inspired Bathroom",
     category: "Bathroom Renovation",
     description: "Relaxing spa-like bathroom with premium amenities",
-    image: "/images/IMG_4476.jpg"
+    image: "/images/IMG_4476.JPG"
   },
   {
     id: "8",
     title: "Luxury Bathroom Remodel",
     category: "Bathroom Renovation",
     description: "Complete bathroom renovation with high-end finishes",
-    image: "/images/IMG_4478.jpg"
+    image: "/images/IMG_4478.JPG"
   },
   {
     id: "9",
     title: "Modern Kitchen Design",
     category: "Kitchen Remodeling",
     description: "Contemporary kitchen featuring custom cabinetry and premium appliances",
-    image: "/images/IMG_4594.jpg"
+    image: "/images/IMG_4594.JPG"
   },
   {
     id: "10",
