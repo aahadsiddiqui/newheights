@@ -99,11 +99,11 @@ const SafetyPage: NextPage = () => {
               >
                 <motion.div
                   className="text-4xl font-bold text-primary-600 mb-2"
-                  initial={{ value: 0 }}
-                  animate={animateCount ? { value: stat.value } : { value: 0 }}
-                  transition={{ duration: 2, ease: "easeOut" }}
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.6, delay: index * 0.2 }}
                 >
-                  {Math.round(stat.value)}+
+                  {animateCount ? `${stat.value}+` : '0+'}
                 </motion.div>
                 <div className="text-gray-600">{stat.label}</div>
               </motion.div>
