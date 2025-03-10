@@ -18,119 +18,119 @@ const projects: Project[] = [
     title: "Modern Bathroom Design",
     category: "Bathroom Renovation",
     description: "Contemporary bathroom featuring sleek fixtures and elegant tiling",
-    image: "/images/IMG_4470.JPG"
+    image: "/images/IMG_4470.jpg"
   },
   {
     id: "2",
     title: "Luxury Bathroom Suite",
     category: "Bathroom Renovation",
     description: "High-end bathroom renovation with premium materials and modern aesthetics",
-    image: "/images/IMG_4471.JPG"
+    image: "/images/IMG_4471.jpg"
   },
   {
     id: "3",
     title: "Luxury Freestanding Tub",
     category: "Bathroom Renovation",
     description: "Elegant spa-inspired bathroom featuring a premium freestanding soaker tub with modern matte black fixtures",
-    image: "/images/IMG_4472.JPG"
+    image: "/images/IMG_4472.jpg"
   },
   {
     id: "4",
     title: "Luxury Flooring & Staircase",
     category: "Interior Design",
     description: "Premium hardwood flooring installation with custom staircase featuring elegant black metal spindles and natural wood handrails",
-    image: "/images/IMG_4473.JPG"
+    image: "/images/IMG_4473.jpg"
   },
   {
     id: "5",
     title: "Elegant Master Bath",
     category: "Bathroom Renovation",
     description: "Luxurious master bathroom featuring high-end finishes",
-    image: "/images/IMG_4474.JPG"
+    image: "/images/IMG_4474.jpg"
   },
   {
     id: "6",
     title: "Modern Bath Suite",
     category: "Bathroom Renovation",
     description: "Contemporary bathroom design with premium fixtures",
-    image: "/images/IMG_4475.JPG"
+    image: "/images/IMG_4475.jpg"
   },
   {
     id: "7",
     title: "Spa-Inspired Bathroom",
     category: "Bathroom Renovation",
     description: "Relaxing spa-like bathroom with premium amenities",
-    image: "/images/IMG_4476.JPG"
+    image: "/images/IMG_4476.jpg"
   },
   {
     id: "8",
     title: "Luxury Bathroom Remodel",
     category: "Bathroom Renovation",
     description: "Complete bathroom renovation with high-end finishes",
-    image: "/images/IMG_4478.JPG"
+    image: "/images/IMG_4478.jpg"
   },
   {
     id: "9",
     title: "Modern Kitchen Design",
     category: "Kitchen Remodeling",
     description: "Contemporary kitchen featuring custom cabinetry and premium appliances",
-    image: "/images/IMG_4594.JPG"
+    image: "/images/IMG_4594.jpg"
   },
   {
     id: "10",
     title: "Luxury Accent Wall Design",
     category: "Interior Design",
     description: "Modern accent wall featuring black vertical slats with gold trim accents and integrated TV mount, creating a sophisticated entertainment space",
-    image: "/images/IMG_4697.JPG"
+    image: "/images/IMG_4697.jpg"
   },
   {
     id: "11",
     title: "Luxury Home Renovation",
     category: "Home Renovation",
     description: "Complete home transformation with modern design elements",
-    image: "/images/IMG_4958.JPG"
+    image: "/images/IMG_4958.jpg"
   },
   {
     id: "12",
     title: "Contemporary Living Space",
     category: "Interior Design",
     description: "Modern living area with custom features",
-    image: "/images/IMG_4960.JPG"
+    image: "/images/IMG_4960.jpg"
   },
   {
     id: "13",
     title: "Custom Interior Design",
     category: "Interior Design",
     description: "Bespoke interior featuring premium materials",
-    image: "/images/IMG_4964.JPG"
+    image: "/images/IMG_4964.jpg"
   },
   {
     id: "14",
     title: "Modern Home Design",
     category: "Home Renovation",
     description: "Contemporary home renovation with luxury finishes",
-    image: "/images/IMG_4965.JPG"
+    image: "/images/IMG_4965.jpg"
   },
   {
     id: "15",
     title: "Custom Commercial Barber Shop",
     category: "Commercial",
     description: "Luxurious barber shop renovation featuring premium chairs, custom lighting, and modern finishes",
-    image: "/images/IMG_5220.JPG"
+    image: "/images/IMG_5220.jpg"
   },
   {
     id: "16",
     title: "Luxury Home Construction",
     category: "New Construction",
     description: "High-end home build with premium features",
-    image: "/images/IMG_5509.JPG"
+    image: "/images/IMG_5509.jpg"
   },
   {
     id: "17",
     title: "Modern Home Project",
     category: "New Construction",
     description: "Contemporary new build with custom design elements",
-    image: "/images/IMG_8436.JPG"
+    image: "/images/IMG_8436.jpg"
   }
 ];
 
